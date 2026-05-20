@@ -29,7 +29,7 @@ Academic Mini Project
 ## Project Preview
 
 ### Prototype Model
-![Prototype](images/fp1.jpg)
+![Prototype](images/fpimg.jpg)
 
 ### Working Demo
 ![Demo](images/fpdemo1.jpg)
