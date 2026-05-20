@@ -26,3 +26,13 @@ To demonstrate renewable energy generation using mechanical pressure and energy 
 
 ## Project Status
 Academic Mini Project
+## Project Preview
+
+### Prototype Model
+![Prototype](images/fp1.jpg)
+
+### Working Demo
+![Demo](images/fpdemo1.jpg)
+
+### Output Testing
+![Output](images/fpdemo2.jpg)
