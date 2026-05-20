@@ -36,3 +36,8 @@ Academic Mini Project
 
 ### Output Testing
 ![Output](images/fpdemo2.jpg)
+## Documentation
+
+[Project Report](fp-report.pdf)
+
+[Presentation Slides](fp-presentation.pptx)
